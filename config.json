@@ -1,0 +1,10 @@
+{
+  "host": "a35htcyv5mqn69.iot.ap-northeast-1.amazonaws.com",
+  "port": 8883,
+  "clientId": "RPi3",
+  "thingName": "RPi3",
+  "caCert": "./certs/root-CA.crt",
+  "clientCert": "./certs/RPi3.cert.pem",
+  "privateKey": "./certs/RPi3.private.key",
+  "topic": "aws/things/RPi3/shadow/update"
+}
